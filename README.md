@@ -73,8 +73,7 @@
 https://github.com/gvqsilva/GS-Python/blob/main/Programa.py
 
 <h2 id="video">Vídeo do projeto</h2>
-
-
+https://www.youtube.com/watch?v=kkRB6SVjo6s
 
 <h2 id="Autores">Autores</h2>
 
